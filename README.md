@@ -1,6 +1,9 @@
 # TASK-5-Tree-Based-Models
 Decision trees &amp; Ensemble learning- Heart Disease Model
 
+# Heart Disease Prediction Using Machine Learning
+This project uses machine learning models to predict the presence of heart disease based on patient data. The dataset includes clinical attributes such as age, sex, chest pain type, cholesterol level, and more. The goal is to classify whether a patient is likely to have heart disease.
+
 # Dataset
 Source: Kaggle - Heart Disease Dataset
 
